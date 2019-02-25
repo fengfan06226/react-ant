@@ -1,0 +1,31 @@
+{
+    "data":[
+        {
+            "name":"首页",
+            "id":"dashboard",
+            "icon":"home",
+            "children":[
+                {
+                    "name":"数据统计",
+                    "id":"dataStatics",
+                    "icon":"area-chart"
+                },
+                {
+                    "name":"图表统计",
+                    "id":"chartStatics",
+                    "icon":"pie-chart"
+                }
+            ]
+        },
+        {
+            "name":"系统用户列表",
+            "id":"userList",
+            "icon":"usergroup-add"
+        },
+        {
+            "name":"微信用户列表",
+            "id":"wxList",
+            "icon":"usergroup-add"
+        }
+    ]
+}
